@@ -1,0 +1,6 @@
+{
+  "name": "To Kai",
+  "description": "A cute, warm, and heartfelt digital gift and letter built with love for Kai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
